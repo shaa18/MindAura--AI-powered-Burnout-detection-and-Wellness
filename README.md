@@ -15,21 +15,19 @@ It predicts burnout risk, identifies key stress factors, and provides personaliz
 
 ## 📸 Interface Previews  
 
-<p align="center">
-  <img src="assets/screenshots/dashboard.png" alt="Dashboard" width="65%" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);" />
-</p>
+<img width="65%" height="800" alt="Screenshot 2025-10-29 025010" src="https://github.com/user-attachments/assets/761bca31-9df2-44e9-9ab1-92275915382b" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);" />
 
-<p align="center">
-  <img src="assets/screenshots/insights.png" alt="Insights" width="65%" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);" />
-</p>
 
-<p align="center">
-  <img src="assets/screenshots/stress_factors.png" alt="Stress Factors" width="65%" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);" />
-</p>
 
-<p align="center">
-  <img src="assets/screenshots/ai_coach.png" alt="AI Coach" width="65%" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);" />
-</p>
+
+
+<img width="65%" height="800" alt="Screenshot 2025-10-29 025046" src="https://github.com/user-attachments/assets/f0530aa1-f8a4-4f87-a634-dd1b57767171" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);" />
+
+ 
+
+<p align="justify">
+
+<img width="65%" height="800" alt="Screenshot 2025-10-29 025136" src="https://github.com/user-attachments/assets/c5c9e3bd-4f6c-46ee-be39-cb51a986042b" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);"/>
 
 
 ---
@@ -210,7 +208,22 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
+
+ Clone the repository
+git clone https://github.com/shaa18/MindAura--AI-powered-Burnout-detection-and-Wellness.git
+
+ Navigate to the frontend folder
+cd MindAura_Finalfrontend
+
+ Install dependencies
+npm install
+
+ Run the project
+npm run dev
+
 Then open [http://localhost:5173](http://localhost:5173) and start exploring!
+
+
 
 ---
 
