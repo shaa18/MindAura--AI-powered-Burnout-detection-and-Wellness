@@ -13,6 +13,25 @@ An AI-powered system designed to detect early signs of burnout, predict risk lev
 **MindAura** combines Artificial Intelligence, Natural Language Processing, and Behavioral Analytics to continuously monitor workplace well-being.  
 It predicts burnout risk, identifies key stress factors, and provides personalized recommendations using Explainable AI and an interactive, gamified dashboard.
 
+## 📸 Interface Previews  
+
+<p align="center">
+  <img src="assets/screenshots/dashboard.png" alt="Dashboard" width="65%" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);" />
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/insights.png" alt="Insights" width="65%" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);" />
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/stress_factors.png" alt="Stress Factors" width="65%" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);" />
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/ai_coach.png" alt="AI Coach" width="65%" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);" />
+</p>
+
+
 ---
 
 ## 🚀 Key Features  
